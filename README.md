@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** with extensive experience in **Web Development**, currently working at the **Mensa Technologies**. I specialize in building scalable, maintainable applications using **.NET Core**, **React**, and **Clean Architecture**. I am passionate about **software architecture**, leveraging **CQRS**, and adhering to best practices to deliver high-quality solutions.
+I'm a **Software Engineer** with extensive experience in **Web Development**, currently working at [**Mensa Technologies**](https://mensagroup.net/). I specialize in building scalable, maintainable applications using **.NET Core**, **React**, and **Clean Architecture**. I am passionate about **software architecture**, leveraging **CQRS**, and adhering to best practices to deliver high-quality solutions.
 
 - 🔭 **Current Role:** Software Mensa Technologies of Health, working on mission-critical systems for healthcare.
 - 🌱 **Currently Learning:** Advancing my skills in **Cybersecurity** and exploring new techniques in **Cloud Architecture**.
@@ -11,14 +11,6 @@ I'm a **Software Engineer** with extensive experience in **Web Development**, cu
 - 💬 **Ask Me About:** **Web applications**, **system architecture**, **CQRS**, **Clean Architecture**, **.NET technologies**, and **software design patterns**.
 - 📫 **Reach Me At:** [YasserBusati@gmail.com](mailto:yasserbusati@gmail.com)
 - 😄 **Pronouns:** He/Him
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** C#, JavaScript, TypeScript, HTML, CSS, Dart
-- **Frameworks:** **.NET Core**, **ASP.NET Core**, **React**, **Blazor**, **Flutter**, **Xamarin**
-- **Architecture & Design Patterns:** **Clean Architecture**, **CQRS**, **DDD**, **Microservices**, **Event-Driven Architecture**
-- **Databases:** SQL Server, PostgreSQL, MongoDB, Oracle, NoSQL
-- **Tools:** Git, Docker, Kubernetes, Visual Studio, VS Code, CI/CD, Azure DevOps, Jenkins
 
 ## 🚀 Currently Working On
 
