@@ -2,27 +2,28 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** with experience in **Web Development**, currently working at the **Ministry of Health**. I am passionate about building scalable and efficient applications, and I am continuously expanding my skill set.
+I'm a **Software Engineer** with extensive experience in **Web Development**, currently working at the **Mensa Technologies**. I specialize in building scalable, maintainable applications using **.NET Core**, **React**, and **Clean Architecture**. I am passionate about **software architecture**, leveraging **CQRS**, and adhering to best practices to deliver high-quality solutions.
 
-- 🔭 **Current Work:** Developing solutions at the Ministry of Health.
-- 🌱 **Currently Learning:** Cybersecurity, and deepening my knowledge in **React** and **ASP.NET Core**.
-- 👯 **Open to Collaboration:** I'm eager to contribute to exciting web development projects. Let's build something amazing together!
-- 🤔 **Looking for Help With:** Advanced **React** patterns and **ASP.NET Core** backend architecture.
-- 💬 **Ask Me About:** Web development, system design, full-stack architecture, and .NET technologies.
-- 📫 **Reach Me At:** [yasserbusati@gmail.com](mailto:yasserbusati@gmail.com)
+- 🔭 **Current Role:** Software Mensa Technologies of Health, working on mission-critical systems for healthcare.
+- 🌱 **Currently Learning:** Advancing my skills in **Cybersecurity** and exploring new techniques in **Cloud Architecture**.
+- 👯 **Open to Collaboration:** Looking to collaborate on projects focusing on **web development**, **Clean Architecture**, and **CQRS** patterns.
+- 🤔 **Looking for Help With:** Advanced **React** development, implementing **CQRS** in large-scale applications, and optimizing **ASP.NET Core** applications.
+- 💬 **Ask Me About:** **Web applications**, **system architecture**, **CQRS**, **Clean Architecture**, **.NET technologies**, and **software design patterns**.
+- 📫 **Reach Me At:** [YasserBusati@gmail.com](mailto:yasserbusati@gmail.com)
 - 😄 **Pronouns:** He/Him
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** C#, JavaScript, TypeScript, HTML, CSS, Dart
-- **Frameworks:** .NET Core, React, Blazor, Flutter, ASP.NET Core
-- **Databases:** SQL Server, PostgreSQL, MongoDB, Oracle
-- **Tools:** Git, Docker, Kubernetes, Visual Studio, VS Code
+- **Frameworks:** **.NET Core**, **ASP.NET Core**, **React**, **Blazor**, **Flutter**, **Xamarin**
+- **Architecture & Design Patterns:** **Clean Architecture**, **CQRS**, **DDD**, **Microservices**, **Event-Driven Architecture**
+- **Databases:** SQL Server, PostgreSQL, MongoDB, Oracle, NoSQL
+- **Tools:** Git, Docker, Kubernetes, Visual Studio, VS Code, CI/CD, Azure DevOps, Jenkins
 
 ## 🚀 Currently Working On
 
-- Building a **Volunteer Management System** using **.NET** for backend, **React** for the frontend, and **Flutter** for mobile applications.
-- Improving **Cybersecurity** practices and staying updated on industry best practices.
+- Building a **Volunteer Management System** with a **.NET Core** backend, **React** frontend, and **Flutter** mobile applications, following **Clean Architecture** principles and implementing **CQRS** for handling complex business workflows.
+- Enhancing **Cybersecurity** knowledge, particularly focused on securing web applications and backend services, while learning best practices for cloud-native solutions.
 
 ## 📈 GitHub Stats
 
