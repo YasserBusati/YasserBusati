@@ -4,8 +4,8 @@
 
 I'm a **Software Engineer** with extensive experience in **Web Development**, currently working at [**Mensa Technologies**](https://mensagroup.net/). I specialize in building scalable, maintainable applications using **.NET Core**, **React**, and **Clean Architecture**. I am passionate about **software architecture**, leveraging **CQRS**, and adhering to best practices to deliver high-quality solutions.
 
-- 🔭 **Current Role:** Software Mensa Technologies of Health, working on mission-critical systems for healthcare.
-- 🌱 **Currently Learning:** Advancing my skills in **Cybersecurity** and exploring new techniques in **Cloud Architecture**.
+- 🔭 **Current Role:** Software Engineer at Mensa Technologies, working on **fintech systems**.
+- 🌱 **Currently Learning:** Advancing my skills in **Cybersecurity** and exploring new techniques in **Software Architecture**.
 - 👯 **Open to Collaboration:** Looking to collaborate on projects focusing on **web development**, **Clean Architecture**, and **CQRS** patterns.
 - 🤔 **Looking for Help With:** Advanced **React** development, implementing **CQRS** in large-scale applications, and optimizing **ASP.NET Core** applications.
 - 💬 **Ask Me About:** **Web applications**, **system architecture**, **CQRS**, **Clean Architecture**, **.NET technologies**, and **software design patterns**.
