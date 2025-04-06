@@ -12,14 +12,16 @@ I'm a **Software Engineer** with extensive experience in **Web Development**, cu
 - 📫 **Reach Me At:** [YasserBusati@gmail.com](mailto:yasserbusati@gmail.com)
 - 😄 **Pronouns:** He/Him
 
-## 🚀 Currently Working On
+## 💼 Currently Working On
 
 - Building a **Volunteer Management System** with a **.NET Core** backend, **React** frontend, and **Flutter** mobile applications, following **Clean Architecture** principles and implementing **CQRS** for handling complex business workflows.
 - Enhancing **Cybersecurity** knowledge, particularly focused on securing web applications and backend services, while learning best practices for cloud-native solutions.
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 ![Yasser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasserbusati&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasserbusati&layout=compact&theme=radical)
+
 
 ## ⚡ Fun Fact
 I look at my laptop more than I look at my own reflection! 😄
